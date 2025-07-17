@@ -19,16 +19,23 @@ Este projeto foi desenvolvido como parte da verificação de aprendizagem da dis
 ## 🗂 Estrutura do Projeto
 
 📁 src/
+
 ┣ 📄 Main.java → Ponto de entrada do programa
 
 ┣ 📄 Biblioteca.java → Lógica principal de cadastro e operações
 
 ┣ 📄 Livro.java → Classe que representa os livros
+
 ┣ 📄 Usuario.java → Classe base para Aluno e Bibliotecário
+
 ┣ 📄 Aluno.java → Extende Usuario com regras específicas
+
 ┣ 📄 Bibliotecario.java → Extende Usuario com permissões de cadastro
+
 ┣ 📄 ICadastros.java → Interface com operações comuns
+
 ┣ 📄 LimiteExcedidoException.java → Exceção personalizada
+
 ┣ 📄 LivroNaoEncontradoException.java → Exceção personalizada
 
 yaml
