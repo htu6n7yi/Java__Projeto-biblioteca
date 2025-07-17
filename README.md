@@ -20,7 +20,9 @@ Este projeto foi desenvolvido como parte da verificação de aprendizagem da dis
 
 📁 src/
 ┣ 📄 Main.java → Ponto de entrada do programa
+
 ┣ 📄 Biblioteca.java → Lógica principal de cadastro e operações
+
 ┣ 📄 Livro.java → Classe que representa os livros
 ┣ 📄 Usuario.java → Classe base para Aluno e Bibliotecário
 ┣ 📄 Aluno.java → Extende Usuario com regras específicas
